@@ -1,5 +1,5 @@
 # Dual Biometric Attendance System using MATLAB
-A classroom attendance system using MATLAB that uses both facial recognition and fingerprint to enter the classroom
+A classroom attendance system using MATLAB that uses both facial recognition and fingerprint to enter the classroom. Demo dataset has not been included due to confidentiality purpose.
 
 The algorithm used for the face recognition is PCA. Principal component analysis is one of the most effective face recognition techniques, which converts a correlated training set of variables into principal mode of variation through following orthogonal transformation procedure. Primarily PCA reduces definition requirement of an image by analyzing the principal components (feature extraction). The feature extraction may not incorporate much physical details, as they mostly include statistical characteristics. 
 
