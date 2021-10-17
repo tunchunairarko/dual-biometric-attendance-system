@@ -7,6 +7,7 @@ Algorithm steps for PCA algorithm implemented for the project:
 2.	Calculate the covariance matrix and its eigenvector
 3.	Find the eigenvalues and eigenvectors of the covariance matrix 
 4.	The principal components are the eigenvectors with largest eigenvalues
+
 For Recognition:
 1.	Take input image
 2.	Calculate distance between Eigenface of the input with the training data
